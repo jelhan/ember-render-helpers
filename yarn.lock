@@ -1334,7 +1334,7 @@
     "@types/jquery" "*"
     "@types/rsvp" "*"
 
-"@types/ember@*", "@types/ember@^3.16.2":
+"@types/ember@*":
   version "3.16.2"
   resolved "https://registry.yarnpkg.com/@types/ember/-/ember-3.16.2.tgz#95d58f42de8d8eb043496fca2aaef3cf62832a13"
   integrity sha512-00Rh+wDTua6H57wegaU7OWRf6tUNkDOCuxLqdqRDUQTag9W64G1Qgeo6jpT7PiZfoB0T559lziFVgHoKnyBQfQ==
@@ -1344,6 +1344,32 @@
     "@types/ember__component" "*"
     "@types/ember__controller" "*"
     "@types/ember__debug" "*"
+    "@types/ember__engine" "*"
+    "@types/ember__error" "*"
+    "@types/ember__object" "*"
+    "@types/ember__polyfills" "*"
+    "@types/ember__routing" "*"
+    "@types/ember__runloop" "*"
+    "@types/ember__service" "*"
+    "@types/ember__string" "*"
+    "@types/ember__template" "*"
+    "@types/ember__test" "*"
+    "@types/ember__utils" "*"
+    "@types/htmlbars-inline-precompile" "*"
+    "@types/jquery" "*"
+    "@types/rsvp" "*"
+
+"@types/ember@3.16.5":
+  version "3.16.5"
+  resolved "https://registry.yarnpkg.com/@types/ember/-/ember-3.16.5.tgz#c2d6b0f178761c0c2fbc6fc39b4b6958c256d0ac"
+  integrity sha512-8BzT1g8r7xQsN2p7qIUZ0AXWEVpJ5LmaRWP3iT79PLyIQfTAYvHSueUl14lrB8renETjwr4+ZvVPKurn9TKxNA==
+  dependencies:
+    "@types/ember__application" "*"
+    "@types/ember__array" "*"
+    "@types/ember__component" "*"
+    "@types/ember__controller" "*"
+    "@types/ember__debug" "*"
+    "@types/ember__destroyable" "*"
     "@types/ember__engine" "*"
     "@types/ember__error" "*"
     "@types/ember__object" "*"
@@ -1401,6 +1427,11 @@
     "@types/ember__debug" "*"
     "@types/ember__engine" "*"
     "@types/ember__object" "*"
+
+"@types/ember__destroyable@*":
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/@types/ember__destroyable/-/ember__destroyable-4.0.5.tgz#ce73554016574d38fb08d3ed0fa9860c24098384"
+  integrity sha512-spJyZxpvecssbXkaOQYcbnlWgb+TasFaKrgAYVbykZY6saMwUdMOGDDoW6uP/y/+A8Jj/fUIatPWJLepeSfgww==
 
 "@types/ember__engine@*":
   version "3.16.2"
